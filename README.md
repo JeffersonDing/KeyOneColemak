@@ -28,4 +28,4 @@ Of course, is you would like to use your right hand, you can always add that par
 
 ## Contacts
 You can contact me via the email linked to my GitHub.  
-###Enjoy Your One-Handed Typing Experience!
+### Enjoy Your One-Handed Typing Experience!
